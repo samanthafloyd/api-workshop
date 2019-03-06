@@ -1,10 +1,8 @@
-This is a regular paragraph.
+# Introduction to APIs 
+## Samantha Floyd
+## Hosted by HackPSU
+## The Pennsylvania State University
 
-<table>
-    <tr>
-        <td>Foo</td>
-    </tr>
-</table>
+Slides:
 
-This is another regular paragraph.
-
+#Objectives
