@@ -22,13 +22,14 @@ We will cover different ways to make an API request, examples of API requests, h
 
 ## Extra Sources for the Extra Studious
 1. https://technologyadvice.com/blog/information-technology/how-to-use-an-api/
-2. https://gigaom.com/2010/10/29/using-apis-not-quite-as-hard-as-it-looks/
-3. https://sendgrid.com/blog/whats-webhook/
-4. https://blog.risingstack.com/web-authentication-methods-explained/
-5. https://www.youtube.com/watch?v=7YcW25PHnAA
-6. https://docs.postman-echo.com/#2f79ab5b-9029-56c2-7b05-52047790d670
-7. https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html#sec9
-8. https://httpbin.org/#/
+2. https://restful.io/an-introduction-to-api-s-cee90581ca1b
+3. https://gigaom.com/2010/10/29/using-apis-not-quite-as-hard-as-it-looks/
+4. https://sendgrid.com/blog/whats-webhook/
+5. https://blog.risingstack.com/web-authentication-methods-explained/
+6. https://www.youtube.com/watch?v=7YcW25PHnAA
+7. https://docs.postman-echo.com/#2f79ab5b-9029-56c2-7b05-52047790d670
+8. https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html#sec9
+9. https://httpbin.org/#/
 
 ## Nice list of APIs!!!
 https://www.programmableweb.com/category/all/apis
